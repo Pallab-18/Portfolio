@@ -1,0 +1,26 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.custom-pic:hover
+{
+    transform: scale(1.30);
+    cursor: pointer;
+}
+.nav-link:hover
+{
+    background-color: #ecdcdc;
+    border-radius: 5px;
+}
+.education-section {
+    padding-bottom: 0;  /* Remove bottom margin */
+}
+
+.services-section {
+    padding-top: 0; /* Remove top margin */
+}
